@@ -1,0 +1,19 @@
+{
+  "name": "one3d",
+  "version": "0.0.1",
+  "description": "3D Model  ",
+  "main": "one3d.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaravananSundar020797/ONE3D.git"
+  },
+  "author": "Saravanan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaravananSundar020797/ONE3D/issues"
+  },
+  "homepage": "https://github.com/SaravananSundar020797/ONE3D#readme"
+}
